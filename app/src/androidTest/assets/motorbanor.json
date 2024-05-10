@@ -1,0 +1,112 @@
+[
+  {
+    "ID": "a23edvwe_1",
+    "name": "Falkenbergs Motorbana",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Falkenberg",
+    "category": "Motorbanor",
+    "size": 1843,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_10",
+    "name": "Anderstorp Raceway",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Gislaved",
+    "category": "Motorbanor",
+    "size": 4025,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_2",
+    "name": "Mantorp Park",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Mantorp",
+    "category": "Motorbanor",
+    "size": 3106,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_3",
+    "name": "Gotland Ring",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Gotland",
+    "category": "Motorbanor",
+    "size": 7000,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_4",
+    "name": "Linköpings Motorstadion",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Linköping",
+    "category": "Motorbanor",
+    "size": 2137,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_5",
+    "name": "Mittsverigebanan",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Härnösand",
+    "category": "Motorbanor",
+    "size": 2000,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_6",
+    "name": "Sturup Raceway",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Sturup",
+    "category": "Motorbanor",
+    "size": 2133,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_7",
+    "name": "Kinnekulle Ring",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Götene",
+    "category": "Motorbanor",
+    "size": 2072,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_8",
+    "name": "Ring Knutstorp",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Svalöv",
+    "category": "Motorbanor",
+    "size": 2070,
+    "cost": 0,
+    "auxdata": ""
+  },
+  {
+    "ID": "a23edvwe_9",
+    "name": "Gälleråsen",
+    "type": "a23edvwe",
+    "company": "",
+    "location": "Karlskroga",
+    "category": "Motorbanor",
+    "size": 2350,
+    "cost": 0,
+    "auxdata": ""
+  }
+]
