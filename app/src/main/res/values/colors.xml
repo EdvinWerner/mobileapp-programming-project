@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="blueTextViewBackground">#07116B</color>
+    <color name="blueAboutUsBackground">#0066ff
+    </color>
+
 </resources>
