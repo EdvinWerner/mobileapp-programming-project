@@ -55,13 +55,13 @@ public class MainActivity extends AppCompatActivity implements JsonTask.JsonTask
 
         for (Motorbana Motorbana : ListOfMotorbanas) {
             Log.d("Motorbana", Motorbana.toString());
-            items.add(new Motorbana(Motorbana.getName()));
+            items.add(new Motorbana(Motorbana.getName(), Motorbana.getSize()));
         }
 
         RecyclerViewAdapter adapter = new RecyclerViewAdapter(this, items, new RecyclerViewAdapter.OnClickListener() {
             @Override
             public void onClick(Motorbana item) {
-                Toast.makeText(MainActivity.this, item.getName(), Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, item.toString(), Toast.LENGTH_LONG).show();
             }
         });
 

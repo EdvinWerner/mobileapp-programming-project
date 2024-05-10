@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Racingbanor i Sverige</string>
     <string name="about_button">Om oss</string>
+    <string name="bottom_button">Gå tillbaks till huvudsidan</string>
 </resources>
